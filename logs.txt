@@ -1,0 +1,39 @@
+$ git log
+commit e7e141b456c199e675c30d409d476b7f86a4dfaa (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Ilija Marinceski <ilijamarinceski1@gmail.com>
+commit e7e141b456c199e675c30d409d476b7f86a4dfaa (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Ilija Marinceski <ilijamarinceski1@gmail.com>
+Date:   Fri Mar 31 18:40:50 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 67a61cacfd51a7bd86afddb3eff8d6b4a63234f2
+Merge: 7081ad5 066769e
+Author: Ilija Marinceski <ilijamarinceski1@gmail.com>
+Date:   Fri Mar 31 18:43:47 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 066769ec1167fd98e1d1db0398d14057b110a2ba (origin/bug2, bug2)
+Author: Ilija Marinceski <ilijamarinceski1@gmail.com>
+Date:   Fri Mar 31 18:37:53 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7081ad54f0dbc54915edc078d399b1b9e14ff0a4 (origin/bug1, bug1)
+Author: Ilija Marinceski <ilijamarinceski1@gmail.com>
+Date:   Fri Mar 31 18:34:30 2023 +0200
+
+     Fix wrong loop for reading
+
+commit bf2ace4bc983fc210cd2025ea1493b1acc4ebcd6
+Author: Ilija Marinceski <ilijamarinceski1@gmail.com>
+Date:   Fri Mar 31 18:25:30 2023 +0200
+
+    Add java class
+
+commit ed475e462d12ca6f787c0aa57619e6bdaf548b3d
+Author: Ilija Marinceski <ilijamarinceski1@gmail.com>
+Date:   Fri Mar 31 18:22:45 2023 +0200
+
+    Initial commit
